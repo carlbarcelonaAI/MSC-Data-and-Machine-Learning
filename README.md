@@ -6,7 +6,7 @@ Choose your preferred environment (**Cloud** or **Local**) and run the setup com
 
 Launch your Codespace from the repository to get started.
 
-1. Open the integrated terminal (`Ctrl + \``).
+1. Open the integrated terminal
 2. Run the following commands:
 
 ```bash
@@ -38,8 +38,8 @@ Then run:
 
 ```bash
 # 1. Clone the repository and navigate to the project folder
-git clone <YOUR_REPOSITORY_URL>
-cd MSC_Data_Science_and_Machine_Learning/msc_event1
+git clone https://github.com/carlbarcelonaAI/MSC-Data-and-Machine-Learning.git
+cd MSC-Data-and-Machine-Learning
 
 # 2. Build the virtual environment and sync dependencies
 uv sync
