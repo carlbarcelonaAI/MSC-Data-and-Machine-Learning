@@ -2,11 +2,6 @@
 
 Choose your preferred environment (**Cloud** or **Local**) and run the setup commands in your terminal.
 
-```markdown
-
-
----
-
 ## ☁️ Option A: GitHub Codespaces (Cloud)
 
 Launch your Codespace from the repository to get started.
@@ -24,8 +19,6 @@ uv run python -m ipykernel install --user --name msc-event1-kernel --display-nam
 
 ➡️ To start coding:  
 Open **chicago_analysis.ipynb**, click **Select Kernel** (top right), choose **Jupyter Kernels / Python Environments**, and select **Python 3.11 (.venv)**.
-
----
 
 ## 💻 Option B: Local Machine
 
@@ -57,8 +50,3 @@ uv run python -m ipykernel install --user --name msc-event1-kernel --display-nam
 
 ➡️ To start coding:  
 Open the folder in VS Code (`code .`), open **chicago_analysis.ipynb**, click **Select Kernel** (top right), choose **Python Environments**, and select **Python 3.11 (.venv)**.
-
----
-
-✅ You’re now ready to start working!
-```
